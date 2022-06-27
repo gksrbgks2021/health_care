@@ -48,4 +48,20 @@
         tools:layout_editor_absoluteY="53dp"
         tools:srcCompat="@tools:sample/avatars" />
 
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="302dp"
+        android:layout_height="271dp"
+        android:text="통계 자료 뷰"
+        tools:layout_editor_absoluteX="44dp"
+        tools:layout_editor_absoluteY="280dp" />
+
+    <TextView
+        android:id="@+id/trash"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="사용자 프로필 데이터 나열"
+        tools:layout_editor_absoluteX="208dp"
+        tools:layout_editor_absoluteY="16dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
